@@ -8,6 +8,4 @@ int b = 3;
 int c = x +y ;
 
 System.out.println(z);
-
-
 }
