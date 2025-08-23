@@ -1,0 +1,19 @@
+Hi Mena
+How are you?
+Nice to meet you?
+
+public void addTwoNumbers(){
+
+int x = 7 ;
+
+int y = 3;
+
+int z = x +y ;
+
+System.out.println(z);
+
+
+}
+
+
+
