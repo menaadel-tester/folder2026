@@ -1,12 +1,8 @@
 
 public void addTwoNumbers(){
-
 int a = 7 ;
-
 int b = 3;
-
 int c = x +y ;
-
 System.out.println(z);
 }
 System.out.println("Welcome in Git & Git Hub Courses");
