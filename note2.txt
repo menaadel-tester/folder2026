@@ -1,4 +1,3 @@
-
 public void addTwoNumbers(){
 int a = 7 ;
 int b = 3;
@@ -7,3 +6,7 @@ System.out.println(z);
 }
 System.out.println("Welcome in Git & Git Hub Courses");
 System.out.println("Welcome in java Courses");
+System.out.println("Welcome in css Courses");
+System.out.println("Welcome in html Courses");
+System.out.println("Welcome in javascript Courses");
+
