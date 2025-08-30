@@ -1,0 +1,6 @@
+public void add two numbers (){
+
+
+System.out.println(Sum);
+
+}
